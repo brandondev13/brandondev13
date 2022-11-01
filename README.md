@@ -1,4 +1,4 @@
-<h1>Hola, mi nombres es Brandon Mejia 👋</h1>
+<h1>Hola, mi nombre es Brandon Mejia 👋</h1>
 <h3>Desarrollador Backend Spring Boot y Android Nativo </h3>
 <h3>Competidor ICPC</h3>
 
