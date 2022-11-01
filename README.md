@@ -1,16 +1,13 @@
-### Hi there 👋
+Hola, mi nombre es Bandon Mejia 👋
+Desarrollador Backend Spring Boot y Android Nativo
+Competidor ICPC
 
-<!--
-**brandondev13/brandondev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/brandondev13
 
-Here are some ideas to get you started:
+[Suscriptores del canal de YouTube Estado de contracción Discordia Twitter Seguir Seguidores de GitHub Seguidores de GitHub](https://www.youtube.com/channel/UC-bUE5uzapZnzucfsMb8OGg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de ingeniería.
+
+El reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software. Desde entonces me dediqué a especializarme en el desarrollo backend..
+
+En octubre del 2022, empiecé a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
