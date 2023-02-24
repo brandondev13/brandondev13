@@ -1,5 +1,5 @@
 <h1>Hola, mi nombre es Brandon Mejia 👋</h1>
-<h3>Desarrollador Backend Spring Boot y Android Nativo <br> ( Competidor ICPC )</h3>
+<h3>Desarrollador Full Stack ( Spring + React ) y Android Nativo <br> ( Competidor ICPC )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonmejia13&label=Profile%20views&color=0e75b6&style=flat" alt="brandonmejia13" /> </p>
 
